@@ -5,3 +5,4 @@ git has a mutable index called stage.
 git tracks changes of files.
 git create branch is quick.
 Create branch is quick and simple.
+test git merge --no-ff.
